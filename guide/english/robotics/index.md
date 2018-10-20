@@ -7,7 +7,7 @@ Robotics is about the systems that make up robots. There is no universally appli
 
 ### Sense
 
-A robot has to sense its environment. For this, it uses different types of sensors. A _sensor_ can be defined as an input device which converts physical parameters into (usually) electrical signals. Cameras in your smartphone are a type of sensors, they convert light into electrical bits of information. A digital thermometer is a sensor that converts heat (temperature) into a electrical signal that can be displayed as a celsius value on its screen. There are always limitations to the accuracy of the output of a sensor, so the output from the sensor is usually further processed to compensate for the errors.
+A robot has to sense its environment. For this, it uses different types of sensors. A _sensor_ can be defined as an input device which converts physical parameters into (usually) electrical signals. Cameras in your smartphone are a type of sensors, they convert light into electrical bits of information. A digital thermometer is a sensor that converts heat (temperature) into an electrical signal that can be displayed as a celsius value on its screen. There are always limitations to the accuracy of the output of a sensor, so the output from the sensor is usually further processed to compensate for the errors.
 
 ### Think
 
